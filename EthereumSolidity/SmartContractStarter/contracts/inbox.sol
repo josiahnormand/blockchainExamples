@@ -1,3 +1,4 @@
+// solium-disable linebreak-style
 pragma solidity ^0.4.17;
 
 contract Inbox {
